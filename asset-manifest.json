@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Daily-UI/static/css/main.1e7161fb.css",
+    "main.js": "/Daily-UI/static/js/main.edd59980.js",
+    "static/js/787.0007ef75.chunk.js": "/Daily-UI/static/js/787.0007ef75.chunk.js",
+    "static/media/banner.png": "/Daily-UI/static/media/banner.4a516de14f6eb4b9e339.png",
+    "static/media/client-pet.png": "/Daily-UI/static/media/client-pet.85893f7f0517b70843e3.png",
+    "static/media/hg.png": "/Daily-UI/static/media/hg.29a4aa91b3f9463e4388.png",
+    "static/media/Cat.png": "/Daily-UI/static/media/Cat.d387c626f5192f6a0cd7.png",
+    "static/media/Pco.png": "/Daily-UI/static/media/Pco.d53042597a86a190812f.png",
+    "static/media/dog_01.png": "/Daily-UI/static/media/dog_01.413c0fe9adc7c11b3581.png",
+    "static/media/review-3.png": "/Daily-UI/static/media/review-3.0093726eb7d98096039a.png",
+    "static/media/review-1.png": "/Daily-UI/static/media/review-1.76de3da2ecfca5b0c3fa.png",
+    "static/media/review-4.png": "/Daily-UI/static/media/review-4.8c65ee1815bd93b1531f.png",
+    "static/media/review-2.png": "/Daily-UI/static/media/review-2.c41f52b2d80f66b851db.png",
+    "index.html": "/Daily-UI/index.html",
+    "main.1e7161fb.css.map": "/Daily-UI/static/css/main.1e7161fb.css.map",
+    "main.edd59980.js.map": "/Daily-UI/static/js/main.edd59980.js.map",
+    "787.0007ef75.chunk.js.map": "/Daily-UI/static/js/787.0007ef75.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e7161fb.css",
+    "static/js/main.edd59980.js"
+  ]
+}
